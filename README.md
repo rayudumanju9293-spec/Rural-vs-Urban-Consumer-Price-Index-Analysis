@@ -17,3 +17,6 @@ Analyzed India's Consumer Price Index (CPI) data from January 2013 to May 2023 t
 - Compared CPI trends across expenditure categories, identifying significant index increases in Spices, Meat and Fish, Health, and Clothing.
 - Evaluated long-term CPI changes and identified differences in rural and urban price index levels.
 - Derived business recommendations related to regional pricing strategies, procurement planning, and consumer affordability.
+
+  <img width="884" height="452" alt="image" src="https://github.com/user-attachments/assets/7a5f0944-dfef-45b6-bc73-f30121eb770c" />
+
